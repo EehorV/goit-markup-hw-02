@@ -13,6 +13,11 @@ body {
     line-height: 1.36;
     font-weight: 900;
 }
+.hero-button {
+    font-size: 16px;
+    line-height: 1.88;
+    font-weight: 700;
+}
 
 .top-logo{
     color:#212121;
