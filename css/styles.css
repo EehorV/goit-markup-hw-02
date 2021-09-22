@@ -28,6 +28,13 @@ body {
     text-decoration: none;
 }
 
+.pages {
+    font-size: 14px;
+    line-height: 0.85;
+    font-weight: 500;
+    text-decoration: none;
+}
+
 .pages:hover,
 .pages:focus{
     color: #2196F3;
