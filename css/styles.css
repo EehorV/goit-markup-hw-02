@@ -63,8 +63,13 @@ body {
 }
 
 .advantages {
-    color:orangered;
     list-style-type: none;
+}
+.advan-descrip {
+    font-weight: 700;
+}
+.advan-descrip > p {
+    color: orangered;
 }
 
 li > button:hover,
