@@ -34,28 +34,20 @@ body {
 }
 
 .nav-pages{
-    font-size: 14px;
-    line-height: 0.85;
-    color: #757575;
-    font-weight: 500;
     list-style-type: none;
     text-decoration: none;
 }
-/* .pages {
+.pages {
     font-size: 14px;
     line-height: 0.85;
     font-weight: 500;   
-} */
+}
 .pages:hover,
 .pages:focus{
     color: #2196F3;
 }
 
 .nav-contacts{
-    font-size: 14px;
-    line-height: 0.85;
-    color: #757575;
-    font-weight: 500;
     list-style-type: none;
     text-decoration: none;
 }
