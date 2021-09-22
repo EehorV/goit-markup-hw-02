@@ -35,6 +35,7 @@ body {
 
 .nav-pages{
     list-style-type: none;
+    text-decoration: none;
 }
 .pages {
     font-size: 14px;
@@ -48,6 +49,7 @@ body {
 
 .nav-contacts{
     list-style-type: none;
+    text-decoration: none;
 }
 .contacts {
     font-size: 14px;
