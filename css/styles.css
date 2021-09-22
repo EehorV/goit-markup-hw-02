@@ -62,6 +62,10 @@ body {
     color: #2196F3;
 }
 
+.advantages {
+    color:orangered;
+}
+
 li > button:hover,
 li > button:focus {
     background-color: #2196F3;
