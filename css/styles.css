@@ -64,6 +64,7 @@ body {
 
 .advantages {
     color:orangered;
+    list-style-type: none;
 }
 
 li > button:hover,
