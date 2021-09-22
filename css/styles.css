@@ -1,0 +1,44 @@
+/* Для хранения палитры цветов макета (текст, фон, выделение) используются CSS-переменные. */
+:root {
+    --bttn-color:
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #212121;
+}
+
+.top-logo{
+    color:#212121;
+}
+
+.bot-logo {
+    color:#ffffff;
+}
+
+.logo {
+    font-family: 'Raleway', sans-serif;
+    text-decoration: none;
+}
+
+.pages:hover,
+.pages:focus{
+    color: #2196F3;
+}
+
+.contacts {
+    color: #757575;
+}
+.contacts:hover,
+.contacts:focus {
+    color: #2196F3;
+}
+
+li > button:hover,
+li > button:focus {
+    background-color: #2196F3;
+    color: #ffffff;
+    cursor: pointer;
+}
+
+/* fo
