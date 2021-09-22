@@ -68,8 +68,11 @@ body {
 .advan-descrip {
     font-weight: 700;
 }
-.advan-descrip > p {
-    color: orangered;
+.advan-text {
+    font-size: 14px;
+    line-height: 0.58;
+    color: #757575;
+    font-weight: 400;
 }
 
 li > button:hover,
