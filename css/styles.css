@@ -86,6 +86,7 @@ h2{
     line-height: 1.17;
     color: var(--secondary-text-color);
     font-weight: 500;
+    text-decoration: none;
 }
 .contacts:hover,
 .contacts:focus {
