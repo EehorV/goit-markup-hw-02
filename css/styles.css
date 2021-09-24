@@ -69,9 +69,11 @@ h2{
     font-weight: 500;   
 }
 
-.pages:active {
+.active,
+.current {
     color: var(--accent-color);
 }
+
 .pages:hover,
 .pages:focus {
     color: var(--accent-color);
