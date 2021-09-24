@@ -57,6 +57,7 @@ h2{
 .pages {
     font-size: 14px;
     line-height: 1.17;
+    color: #212121;
     font-weight: 500;   
 }
 .pages:hover,
