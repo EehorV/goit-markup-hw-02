@@ -50,7 +50,8 @@ h2{
 
 .nav-pages,
 .nav-contacts,
-.products {
+.products,
+.pages {
     list-style-type: none;
     text-decoration: none;
 }
