@@ -38,6 +38,9 @@ h2{
     font-weight: 700;
 }
 
+.span {
+    color: var(--accent-color);
+}
 .top-logo{
     color: var(--primary-text-color);
 }
