@@ -146,7 +146,13 @@ address {
     font-size: 14px;
     line-height: 1.71;
     color: #ffffff;
-    font-style:normal;
+    font-style: normal;
+    font-weight: 400;
+}
+.footer-contacts .contacts {
+    font-size: 14px;
+    line-height: 1.71;
+    color: var(--footer-contacts-color);
     font-weight: 400;
 }
 
