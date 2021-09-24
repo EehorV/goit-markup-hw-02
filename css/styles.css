@@ -69,8 +69,11 @@ h2{
     font-weight: 500;   
 }
 .pages:hover,
-.pages:focus,
-.pages:visited {
+.pages:focus {
+    color: var(--accent-color);
+}
+
+.pages:active {
     color: var(--accent-color);
 }
 
