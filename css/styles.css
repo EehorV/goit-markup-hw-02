@@ -7,7 +7,7 @@
 
 body {
     font-family: 'Roboto', sans-serif;
-    color: #212121;
+    color: var(--primary-text-color);
 }
 
 h2{
@@ -23,7 +23,7 @@ h2{
 .position {
     font-size: 16px;
     line-height: 1.17;
-    color:#757575;
+    color: var(--secondary-text-color);
     font-weight: 400;
 }
 
@@ -39,7 +39,7 @@ h2{
 }
 
 .top-logo{
-    color:#212121;
+    color: var(--primary-text-color);
 }
 
 .bot-logo {
@@ -62,29 +62,29 @@ h2{
 .pages {
     font-size: 14px;
     line-height: 1.17;
-    color: #212121;
+    color: var(--primary-text-color);
     font-weight: 500;   
 }
 .pages:hover,
 .pages:focus{
-    color: #2196F3;
+    color: var(--accent-color);
 }
 
 .contacts {
     font-size: 14px;
     line-height: 1.17;
-    color: #757575;
+    color: var(--secondary-text-color);
     font-weight: 500;
 }
 .contacts:hover,
 .contacts:focus {
-    color: #2196F3;
+    color: var(--accent-color);
 }
 
 .tabs {
     font-size: 16px;
     line-height: 1.63;
-    color: #212121;
+    color: var(--primary-text-color);
     font-weight: 500;
 }
 
@@ -96,7 +96,7 @@ h2{
 .type {
     font-size: 16px;
     line-height: 1.88;
-    color: #757575;
+    color: var(--secondary-text-color);
     font-weight: 400;
 }
 
@@ -107,19 +107,19 @@ h2{
 .advan-descrip {
     font-size: 14px;
     line-height: 1.17;
-    color: #212121;
+    color: var(--primary-text-color);
     font-weight: 700;
 }
 .advan-text {
     font-size: 14px;
     line-height: 1.71;
-    color: #757575;
+    color: var(--secondary-text-color);
     font-weight: 400;
 }
 
 li > button:hover,
 li > button:focus {
-    background-color: #2196F3;
+    background-color: var(--accent-color);
     color: #ffffff;
     cursor: pointer;
 }
