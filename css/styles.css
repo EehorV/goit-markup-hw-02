@@ -10,12 +10,12 @@ body {
 
 h2{
     font-size: 36px;
-    line-height: 0.85;
+    line-height: 1.17;
     font-weight: 700;
 }
 .developers {
     font-size: 16px;
-    line-height: 0.85;
+    line-height: 1.17;
     font-weight: 500;
 }
 .developers .position {
@@ -55,7 +55,7 @@ h2{
 }
 .pages {
     font-size: 14px;
-    line-height: 0.85;
+    line-height: 1.17;
     font-weight: 500;   
 }
 .pages:hover,
@@ -65,7 +65,7 @@ h2{
 
 .contacts {
     font-size: 14px;
-    line-height: 0.85;
+    line-height: 1.17;
     color: #757575;
     font-weight: 500;
 }
@@ -79,17 +79,18 @@ h2{
 }
 .decisions {
     font-size: 18px;
-    line-height: 0.5;
+    line-height: 2;
     font-weight: 700;
 }
 .decisions .type {
     font-size: 16px;
-    line-height: 0.53;
+    line-height: 1.88;
     color: #757575;
     font-weight: 400;
 }
 
-.advantages {
+.advantages,
+.trends {
     list-style-type: none;
 }
 .advan-descrip {
@@ -97,12 +98,9 @@ h2{
 }
 .advan-text {
     font-size: 14px;
-    line-height: 0.58;
+    line-height: 1.71;
     color: #757575;
     font-weight: 400;
-}
-.trends {
-    list-style-type: none; 
 }
 
 li > button:hover,
