@@ -79,6 +79,13 @@ h2{
     color: #2196F3;
 }
 
+.tabs {
+    font-size: 16px;
+    line-height: 1.63;
+    color: #212121;
+    font-weight: 500;
+}
+
 .decisions {
     font-size: 18px;
     line-height: 2;
