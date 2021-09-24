@@ -48,7 +48,8 @@ h2{
     text-decoration: none;
 }
 
-.nav-pages{
+.nav-pages,
+.nav-contacts {
     list-style-type: none;
     text-decoration: none;
 }
@@ -62,10 +63,6 @@ h2{
     color: #2196F3;
 }
 
-.nav-contacts{
-    list-style-type: none;
-    text-decoration: none;
-}
 .contacts {
     font-size: 14px;
     line-height: 0.85;
