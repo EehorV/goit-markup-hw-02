@@ -122,3 +122,14 @@ li > button:focus {
     cursor: pointer;
 }
 
+footer {
+    background: #2F303A;
+}
+
+address {
+    font-size: 14px;
+    line-height: 1.71;
+    color: #ffffff;
+    font-weight: 400;
+}
+
