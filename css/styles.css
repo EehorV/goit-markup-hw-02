@@ -139,8 +139,8 @@ body {
   font-weight: 400;
 }
 
-li > button:hover,
-li > button:focus {
+.tabs:hover,
+.tabs:focus {
   background-color: var(--accent-color);
   color: #ffffff;
   cursor: pointer;
