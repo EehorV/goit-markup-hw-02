@@ -163,3 +163,8 @@ body {
   color: var(--footer-contacts-color);
   font-weight: 400;
 }
+
+.footer-contacts .contacts:hover,
+.footer-contacts .contacts:focus {
+  color: var(--accent-color);
+}
